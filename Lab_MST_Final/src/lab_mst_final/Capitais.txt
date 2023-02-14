@@ -1,0 +1,27 @@
+Brasilia;Distrito Federal;DF;-15.8;-47.863889
+Aracaju;Sergipe;SE;-10.91;-37.07
+Belem;Para;PA;-1.455833;-48.503889
+Belo Horizonte;Minas Gerais;MG;-19.816944;43.955833
+Boa Vista;Roraima;RO;2.816667;60.65
+Campo Grande;Mato Grosso;MT;-20.442778;-54.645833
+Cuiaba;Mato Grosso do Sul;MS;-15.595833;-56.096944
+Curitiba;Parana;PR;-25.429722;-49.271944
+Florianopolis;Santa Catarina;SC;-27.596944;-48.548889
+Fortaleza;Ceara;CE;-3.716944;-38.542778
+Goiania;Goiais;GO;-16.666667;-49.25
+Joao Pessoa;Paraiba;PB;-7.083333;-34.833333
+Macapa;Amapa;AP;0.038567;-51.066417
+Maceio;Alagoas;AL;-9.665833;-35.735
+Manaus;Amazonas;AM;-3.1;-60.016667
+Natal;Rio Grande do Norte;RN;-5.795;-35.208889
+Palmas;Tocantins;TO;-10.184444;-48.333611
+Porto Alegre;Rio Grande do sul;RS-10.184444;-48.333611
+Porto Velho;Rondonia;RO;-8.761944;-63.903889
+Recife;Pernanbuco;PE;-8.053889;-34.880833
+Rio Branco;Acre;AC;-9.975;-67.81
+Rio de Janeiro;Rio de Janeiro;RJ;-22.902778;-43.207778
+Salvador;Bahia;BA;-12.971111;-38.510833
+Sao Luis;Maranhao;MA;-2.53;-44.302778
+Sao Paulo;Sao Paulo;SP;-23.547778;-46.635833
+Teresina;Piaui;PI;-5.088889;-42.801944
+Vitoria;Espirito Santo;ES;-20.318889;-40.337778
